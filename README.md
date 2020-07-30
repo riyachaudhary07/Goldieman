@@ -1,2 +1,2 @@
-# MarioGame
-A simple Mario Game developed in android studio
+# GoldieMan
+A simple Goldie man game developed in android studio
